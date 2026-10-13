@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://USERNAME.github.io/master-rabotnik/sitemap.xml
+Sitemap: https://dilmurodrajabov75-svg.github.io/Saytim/sitemap.xml
